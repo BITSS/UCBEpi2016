@@ -4,6 +4,6 @@
 \beamer@sectionintoc {2}{Ethical Research}{5}{0}{2}
 \beamer@sectionintoc {3}{Study Design and Power}{15}{0}{3}
 \beamer@sectionintoc {4}{Registrations}{20}{0}{4}
-\beamer@sectionintoc {5}{Pre-Analysis Plans}{37}{0}{5}
-\beamer@sectionintoc {6}{Replication}{46}{0}{6}
-\beamer@sectionintoc {7}{Conclusion}{61}{0}{7}
+\beamer@sectionintoc {5}{Pre-Analysis Plans}{40}{0}{5}
+\beamer@sectionintoc {6}{Replication}{53}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{70}{0}{7}

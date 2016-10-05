@@ -40,106 +40,114 @@
 \headcommand {\beamer@sectionpages {15}{19}}
 \headcommand {\beamer@subsectionpages {15}{19}}
 \headcommand {\beamer@subsectionentry {0}{4}{1}{20}{Publication Bias}}\headcommand {\beamer@subsectionpages {20}{19}}
-\headcommand {\slideentry {4}{1}{1}{20/20}{Publication Bias}{0}}
-\headcommand {\beamer@framepages {20}{20}}
-\headcommand {\slideentry {4}{1}{2}{21/21}{Publication Bias}{0}}
-\headcommand {\beamer@framepages {21}{21}}
-\headcommand {\slideentry {4}{1}{3}{22/22}{Publication Bias}{0}}
-\headcommand {\beamer@framepages {22}{22}}
-\headcommand {\slideentry {4}{1}{4}{23/23}{Publication Bias}{0}}
-\headcommand {\beamer@framepages {23}{23}}
-\headcommand {\slideentry {4}{1}{5}{24/24}{Publication Bias}{0}}
+\headcommand {\slideentry {4}{1}{1}{20/23}{Publication Bias}{0}}
+\headcommand {\beamer@framepages {20}{23}}
+\headcommand {\slideentry {4}{1}{2}{24/24}{Publication Bias}{0}}
 \headcommand {\beamer@framepages {24}{24}}
-\headcommand {\slideentry {4}{1}{6}{25/25}{Publication Bias}{0}}
+\headcommand {\slideentry {4}{1}{3}{25/25}{Publication Bias}{0}}
 \headcommand {\beamer@framepages {25}{25}}
-\headcommand {\slideentry {4}{1}{7}{26/26}{Publication Bias}{0}}
+\headcommand {\slideentry {4}{1}{4}{26/26}{Publication Bias}{0}}
 \headcommand {\beamer@framepages {26}{26}}
-\headcommand {\slideentry {4}{1}{8}{27/27}{Publication Bias}{0}}
+\headcommand {\slideentry {4}{1}{5}{27/27}{Publication Bias}{0}}
 \headcommand {\beamer@framepages {27}{27}}
-\headcommand {\beamer@subsectionentry {0}{4}{2}{28}{Registrations}}\headcommand {\beamer@subsectionpages {20}{27}}
-\headcommand {\slideentry {4}{2}{1}{28/30}{Registrations}{0}}
-\headcommand {\beamer@framepages {28}{30}}
-\headcommand {\slideentry {4}{2}{2}{31/31}{Registrations}{0}}
-\headcommand {\beamer@framepages {31}{31}}
-\headcommand {\slideentry {4}{2}{3}{32/32}{Registrations}{0}}
-\headcommand {\beamer@framepages {32}{32}}
-\headcommand {\slideentry {4}{2}{4}{33/33}{Registrations}{0}}
-\headcommand {\beamer@framepages {33}{33}}
-\headcommand {\slideentry {4}{2}{5}{34/34}{Registrations}{0}}
+\headcommand {\slideentry {4}{1}{6}{28/28}{Publication Bias}{0}}
+\headcommand {\beamer@framepages {28}{28}}
+\headcommand {\slideentry {4}{1}{7}{29/29}{Publication Bias}{0}}
+\headcommand {\beamer@framepages {29}{29}}
+\headcommand {\slideentry {4}{1}{8}{30/30}{Publication Bias}{0}}
+\headcommand {\beamer@framepages {30}{30}}
+\headcommand {\beamer@subsectionentry {0}{4}{2}{31}{Registrations}}\headcommand {\beamer@subsectionpages {20}{30}}
+\headcommand {\slideentry {4}{2}{1}{31/33}{Registrations}{0}}
+\headcommand {\beamer@framepages {31}{33}}
+\headcommand {\slideentry {4}{2}{2}{34/34}{Registrations}{0}}
 \headcommand {\beamer@framepages {34}{34}}
-\headcommand {\slideentry {4}{2}{6}{35/35}{Registrations}{0}}
+\headcommand {\slideentry {4}{2}{3}{35/35}{Registrations}{0}}
 \headcommand {\beamer@framepages {35}{35}}
-\headcommand {\slideentry {4}{2}{7}{36/36}{Registrations}{0}}
+\headcommand {\slideentry {4}{2}{4}{36/36}{Registrations}{0}}
 \headcommand {\beamer@framepages {36}{36}}
-\headcommand {\sectionentry {5}{Pre-Analysis Plans}{37}{Pre-Analysis Plans}{0}}
-\headcommand {\beamer@sectionpages {20}{36}}
-\headcommand {\beamer@subsectionpages {28}{36}}
-\headcommand {\beamer@subsectionentry {0}{5}{1}{37}{P-Hacking}}\headcommand {\beamer@subsectionpages {37}{36}}
-\headcommand {\slideentry {5}{1}{1}{37/37}{P-Hacking}{0}}
+\headcommand {\slideentry {4}{2}{5}{37/37}{Registrations}{0}}
 \headcommand {\beamer@framepages {37}{37}}
-\headcommand {\beamer@subsectionentry {0}{5}{2}{38}{Pre-Analysis Plan}}\headcommand {\beamer@subsectionpages {37}{37}}
-\headcommand {\slideentry {5}{2}{1}{38/38}{Pre-Analysis Plan}{0}}
+\headcommand {\slideentry {4}{2}{6}{38/38}{Registrations}{0}}
 \headcommand {\beamer@framepages {38}{38}}
-\headcommand {\slideentry {5}{2}{2}{39/39}{Pre-Analysis Plan}{0}}
+\headcommand {\slideentry {4}{2}{7}{39/39}{Registrations}{0}}
 \headcommand {\beamer@framepages {39}{39}}
-\headcommand {\slideentry {5}{2}{3}{40/40}{Pre-Analysis Plan}{0}}
+\headcommand {\sectionentry {5}{Pre-Analysis Plans}{40}{Pre-Analysis Plans}{0}}
+\headcommand {\beamer@sectionpages {20}{39}}
+\headcommand {\beamer@subsectionpages {31}{39}}
+\headcommand {\beamer@subsectionentry {0}{5}{1}{40}{P-Hacking}}\headcommand {\beamer@subsectionpages {40}{39}}
+\headcommand {\slideentry {5}{1}{1}{40/40}{P-Hacking}{0}}
 \headcommand {\beamer@framepages {40}{40}}
-\headcommand {\slideentry {5}{2}{4}{41/41}{Pre-Analysis Plan}{0}}
-\headcommand {\beamer@framepages {41}{41}}
-\headcommand {\slideentry {5}{2}{5}{42/42}{Pre-Analysis Plan}{0}}
-\headcommand {\beamer@framepages {42}{42}}
-\headcommand {\slideentry {5}{2}{6}{43/43}{Pre-Analysis Plan}{0}}
-\headcommand {\beamer@framepages {43}{43}}
-\headcommand {\slideentry {5}{2}{7}{44/44}{Pre-Analysis Plan}{0}}
+\headcommand {\slideentry {5}{1}{2}{41/43}{P-Hacking}{0}}
+\headcommand {\beamer@framepages {41}{43}}
+\headcommand {\beamer@subsectionentry {0}{5}{2}{44}{Pre-Analysis Plan}}\headcommand {\beamer@subsectionpages {40}{43}}
+\headcommand {\slideentry {5}{2}{1}{44/44}{Pre-Analysis Plan}{0}}
 \headcommand {\beamer@framepages {44}{44}}
-\headcommand {\slideentry {5}{2}{8}{45/45}{Pre-Analysis Plan}{0}}
+\headcommand {\slideentry {5}{2}{2}{45/45}{Pre-Analysis Plan}{0}}
 \headcommand {\beamer@framepages {45}{45}}
-\headcommand {\sectionentry {6}{Replication}{46}{Replication}{0}}
-\headcommand {\beamer@sectionpages {37}{45}}
-\headcommand {\beamer@subsectionpages {38}{45}}
-\headcommand {\slideentry {6}{0}{1}{46/46}{}{0}}
+\headcommand {\slideentry {5}{2}{3}{46/46}{Pre-Analysis Plan}{0}}
 \headcommand {\beamer@framepages {46}{46}}
-\headcommand {\slideentry {6}{0}{2}{47/47}{}{0}}
+\headcommand {\slideentry {5}{2}{4}{47/47}{Pre-Analysis Plan}{0}}
 \headcommand {\beamer@framepages {47}{47}}
-\headcommand {\beamer@subsectionentry {0}{6}{1}{48}{Project Protocol, Reporting Standards}}\headcommand {\beamer@subsectionpages {46}{47}}
-\headcommand {\slideentry {6}{1}{1}{48/48}{Project Protocol, Reporting Standards}{0}}
+\headcommand {\slideentry {5}{2}{5}{48/48}{Pre-Analysis Plan}{0}}
 \headcommand {\beamer@framepages {48}{48}}
-\headcommand {\slideentry {6}{1}{2}{49/49}{Project Protocol, Reporting Standards}{0}}
+\headcommand {\slideentry {5}{2}{6}{49/49}{Pre-Analysis Plan}{0}}
 \headcommand {\beamer@framepages {49}{49}}
-\headcommand {\beamer@subsectionentry {0}{6}{2}{50}{Workflow}}\headcommand {\beamer@subsectionpages {48}{49}}
-\headcommand {\slideentry {6}{2}{1}{50/50}{Workflow}{0}}
+\headcommand {\slideentry {5}{2}{7}{50/50}{Pre-Analysis Plan}{0}}
 \headcommand {\beamer@framepages {50}{50}}
-\headcommand {\slideentry {6}{2}{2}{51/54}{Workflow}{0}}
-\headcommand {\beamer@framepages {51}{54}}
-\headcommand {\beamer@subsectionentry {0}{6}{3}{55}{Version Control}}\headcommand {\beamer@subsectionpages {50}{54}}
-\headcommand {\slideentry {6}{3}{1}{55/55}{Version Control}{0}}
+\headcommand {\slideentry {5}{2}{8}{51/51}{Pre-Analysis Plan}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\slideentry {5}{2}{9}{52/52}{Pre-Analysis Plan}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\sectionentry {6}{Replication}{53}{Replication}{0}}
+\headcommand {\beamer@sectionpages {40}{52}}
+\headcommand {\beamer@subsectionpages {44}{52}}
+\headcommand {\slideentry {6}{0}{1}{53/53}{}{0}}
+\headcommand {\beamer@framepages {53}{53}}
+\headcommand {\slideentry {6}{0}{2}{54/54}{}{0}}
+\headcommand {\beamer@framepages {54}{54}}
+\headcommand {\beamer@subsectionentry {0}{6}{1}{55}{Project Protocol, Reporting Standards}}\headcommand {\beamer@subsectionpages {53}{54}}
+\headcommand {\slideentry {6}{1}{1}{55/55}{Project Protocol, Reporting Standards}{0}}
 \headcommand {\beamer@framepages {55}{55}}
-\headcommand {\slideentry {6}{3}{2}{56/56}{Version Control}{0}}
+\headcommand {\slideentry {6}{1}{2}{56/56}{Project Protocol, Reporting Standards}{0}}
 \headcommand {\beamer@framepages {56}{56}}
-\headcommand {\slideentry {6}{3}{3}{57/57}{Version Control}{0}}
+\headcommand {\beamer@subsectionentry {0}{6}{2}{57}{Workflow}}\headcommand {\beamer@subsectionpages {55}{56}}
+\headcommand {\slideentry {6}{2}{1}{57/57}{Workflow}{0}}
 \headcommand {\beamer@framepages {57}{57}}
-\headcommand {\slideentry {6}{3}{4}{58/58}{Version Control}{0}}
-\headcommand {\beamer@framepages {58}{58}}
-\headcommand {\slideentry {6}{3}{5}{59/59}{Version Control}{0}}
-\headcommand {\beamer@framepages {59}{59}}
-\headcommand {\beamer@subsectionentry {0}{6}{4}{60}{Data Sharing}}\headcommand {\beamer@subsectionpages {55}{59}}
-\headcommand {\slideentry {6}{4}{1}{60/60}{Data Sharing}{0}}
-\headcommand {\beamer@framepages {60}{60}}
-\headcommand {\sectionentry {7}{Conclusion}{61}{Conclusion}{0}}
-\headcommand {\beamer@sectionpages {46}{60}}
-\headcommand {\beamer@subsectionpages {60}{60}}
-\headcommand {\slideentry {7}{0}{1}{61/61}{}{0}}
-\headcommand {\beamer@framepages {61}{61}}
-\headcommand {\slideentry {7}{0}{2}{62/62}{}{0}}
+\headcommand {\slideentry {6}{2}{2}{58/61}{Workflow}{0}}
+\headcommand {\beamer@framepages {58}{61}}
+\headcommand {\beamer@subsectionentry {0}{6}{3}{62}{Version Control}}\headcommand {\beamer@subsectionpages {57}{61}}
+\headcommand {\slideentry {6}{3}{1}{62/62}{Version Control}{0}}
 \headcommand {\beamer@framepages {62}{62}}
-\headcommand {\slideentry {7}{0}{3}{63/63}{}{0}}
+\headcommand {\slideentry {6}{3}{2}{63/63}{Version Control}{0}}
 \headcommand {\beamer@framepages {63}{63}}
-\headcommand {\slideentry {7}{0}{4}{64/64}{}{0}}
+\headcommand {\slideentry {6}{3}{3}{64/64}{Version Control}{0}}
 \headcommand {\beamer@framepages {64}{64}}
-\headcommand {\slideentry {7}{0}{5}{65/65}{}{0}}
+\headcommand {\slideentry {6}{3}{4}{65/65}{Version Control}{0}}
 \headcommand {\beamer@framepages {65}{65}}
-\headcommand {\beamer@partpages {1}{65}}
-\headcommand {\beamer@subsectionpages {61}{65}}
-\headcommand {\beamer@sectionpages {61}{65}}
-\headcommand {\beamer@documentpages {65}}
-\headcommand {\def \inserttotalframenumber {55}}
+\headcommand {\slideentry {6}{3}{5}{66/66}{Version Control}{0}}
+\headcommand {\beamer@framepages {66}{66}}
+\headcommand {\slideentry {6}{3}{6}{67/67}{Version Control}{0}}
+\headcommand {\beamer@framepages {67}{67}}
+\headcommand {\slideentry {6}{3}{7}{68/68}{Version Control}{0}}
+\headcommand {\beamer@framepages {68}{68}}
+\headcommand {\beamer@subsectionentry {0}{6}{4}{69}{Data Sharing}}\headcommand {\beamer@subsectionpages {62}{68}}
+\headcommand {\slideentry {6}{4}{1}{69/69}{Data Sharing}{0}}
+\headcommand {\beamer@framepages {69}{69}}
+\headcommand {\sectionentry {7}{Conclusion}{70}{Conclusion}{0}}
+\headcommand {\beamer@sectionpages {53}{69}}
+\headcommand {\beamer@subsectionpages {69}{69}}
+\headcommand {\slideentry {7}{0}{1}{70/70}{}{0}}
+\headcommand {\beamer@framepages {70}{70}}
+\headcommand {\slideentry {7}{0}{2}{71/71}{}{0}}
+\headcommand {\beamer@framepages {71}{71}}
+\headcommand {\slideentry {7}{0}{3}{72/72}{}{0}}
+\headcommand {\beamer@framepages {72}{72}}
+\headcommand {\slideentry {7}{0}{4}{73/73}{}{0}}
+\headcommand {\beamer@framepages {73}{73}}
+\headcommand {\slideentry {7}{0}{5}{74/74}{}{0}}
+\headcommand {\beamer@framepages {74}{74}}
+\headcommand {\beamer@partpages {1}{74}}
+\headcommand {\beamer@subsectionpages {70}{74}}
+\headcommand {\beamer@sectionpages {70}{74}}
+\headcommand {\beamer@documentpages {74}}
+\headcommand {\def \inserttotalframenumber {59}}
